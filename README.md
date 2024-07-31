@@ -13,3 +13,4 @@
 I would like to extend my heartfelt gratitude to, Abhishek Veeramalla for his invaluable support and guidance throughout this project.
 
 This project provided an excellent opportunity to apply theoretical knowledge to a practical, real-world scenario. I look forward to tackling more such challenges in the future! 💻🌟
+Check out my blog also!https://medium.com/@edgartc03/devops-project-building-a-secure-and-scalable-web-application-on-aws-1dbe9e358412
